@@ -19,13 +19,13 @@
 /* Styles for the body */
 body {
   font-family: Arial, sans-serif;
-  background-color: #c2ffdd;
+  background-color: #FFFFFF;
 }
 
 #message {
   font-size: 96px;
   font-weight: bold;
-  color: #000000;
+  color: #00008B;
   text-align: center;
   margin-top: 50px;
 }
